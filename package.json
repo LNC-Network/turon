@@ -1,6 +1,6 @@
 {
   "name": "turon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fast CLI to scaffold and configure Express.js backend projects.",
   "homepage": "https://github.com/LNC-Network/turon#readme",
   "bugs": {
