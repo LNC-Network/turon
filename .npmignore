@@ -1,0 +1,26 @@
+# Source files
+src/
+tests/
+__tests__/
+*.test.ts
+
+# Build artifacts
+node_modules/
+coverage/
+dist/**/*.map
+
+# Config and docs
+tsconfig.json
+.eslintrc.*
+.prettierrc*
+.gitignore
+.npmrc
+CHANGELOG.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+ROADMAP.md
+
+# Environment
+.env
+.DS_Store
+*.log
